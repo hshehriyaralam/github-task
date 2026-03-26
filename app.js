@@ -14,4 +14,9 @@ const arrOfObj = [
         name : "Hams",
         age : 28
     },
+    {
+    id: 4,
+    name : "other-file",
+    age : 22
+    },
 ]
