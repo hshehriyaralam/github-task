@@ -4,4 +4,9 @@ const arrOfObj = [
         name : "Hassan",
         age : 42
     },
+    {
+        id: 2,
+        name : "Ahsan",
+        age : 32
+    },
 ]
